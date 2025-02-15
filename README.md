@@ -13,14 +13,13 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ---
 
-## 🚀 Tecnologias que eu uso  
+## 🚀 Tecnologias e Ferramentas  
 
 ### **Backend**  
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" width="120" height="40"/>
 </p>
 
 ### **Frontend**  
@@ -35,13 +34,25 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 <p align="left">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="120" height="40"/>
 </p>
 
-### **Ferramentas**  
+---
+
+## 💬 Mensageria
+
 <p align="left">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-WebSocket-4D8CF0?style=for-the-badge&logo=websocket&logoColor=white" width="120" height="40"/>
+</p>
+
+---
+
+## 🎨 Design & Produtividade
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="120" height="40"/>
 </p>
 
 ---
