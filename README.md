@@ -1,132 +1,97 @@
-# Olá, eu sou o Saymon 👋
+# 👋 Olá, eu sou o Saymon!  
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, com foco em **backend** utilizando **Java Spring** e **Spring Security**, mas também adoro criar interfaces incríveis no **front-end** com **HTML**, **Tailwind** e **React**. 🚀
-
----
-
-## 🧑‍💻 Sobre mim
-
-- 💻 **Backend:** Trabalho com Java Spring, criando aplicações robustas e seguras, utilizando Spring Security para maior proteção.
-- 🌐 **Frontend:** Desenvolvo interfaces modernas e responsivas com Tailwind CSS e React, sempre buscando oferecer a melhor experiência ao usuário.
-- 📚 Sempre estou aprendendo novas tecnologias e ferramentas para melhorar minhas habilidades.
-- 🎯 Busco sempre escrever código limpo, escalável e otimizado, com boas práticas de desenvolvimento.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho principalmente com **Java Spring** no backend e **React** no frontend, criando aplicações robustas, seguras e escaláveis. 🚀  
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🧑‍💻 Sobre mim  
 
-### **Backend**
+✔️ **Backend:** Desenvolvimento com **Java Spring** e **Spring Security**, garantindo robustez e segurança.  
+✔️ **Frontend:** Interfaces modernas com **React**, **Next.js** e **Tailwind CSS**.  
+✔️ **Banco de dados:** Experiência com **MySQL**, **PostgreSQL** e **MongoDB**.  
+✔️ **Mensageria:** Utilização do **Apache Kafka** para comunicação assíncrona.  
+✔️ **Código limpo:** Sempre aplicando boas práticas e padrões de arquitetura.  
+
+---
+
+## 🚀 Tecnologias e Ferramentas  
+
+### **Backend**  
 <p align="left">
-  <a href="https://openjdk.org/">
-    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-framework">
-    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-security">
-    <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" width="130" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 </p>
 
-### **Frontend**
+### **Frontend**  
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="120" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-### **Banco de dados**
+### **Banco de dados**  
 <p align="left">
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="120" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-## 💬 Mensageria
-
+## 💬 Mensageria  
 <p align="left">
-  <a href="https://kafka.apache.org/">
-    <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://websocket.org/">
-    <img src="https://img.shields.io/badge/-WebSocket-4D8CF0?style=for-the-badge&logo=websocket&logoColor=white" width="120" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-WebSocket-4D8CF0?style=for-the-badge&logo=websocket&logoColor=white"/>
 </p>
 
 ---
 
-## 🎨 Design & Produtividade
-
+## 🎨 Design & Produtividade  
 <p align="left">
-  <a href="https://www.notion.so/">
-    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="120" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-## 💻 IDEs que uso
-
+## 💻 IDEs que uso  
 <p align="left">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" width="120" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" width="120" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em destaque  
 
-Aqui estão alguns dos meus projetos:
+### ⚙️ [Sistema de Máquinas](https://github.com/SaymonTheDev7/MachineSystem)  
+🔹 Um sistema completo de gerenciamento de máquinas industriais.  
+🔹 Permite controle de **manutenção**, **operações** e **cadastro de equipamentos**.  
+🔹 **Tecnologias**: Java Spring, React, Tailwind CSS, PostgreSQL  
 
-- ⚙️ **[Sistema de Máquinas](https://github.com/SaymonTheDev7/MachineSystem)**  
-  Um sistema de gerenciamento de máquinas industriais, permitindo o controle de manutenção e operação.
-- 🌦️ **[API de Clima](https://apiconsultweather.vercel.app)**  
-  Uma API que fornece informações meteorológicas em tempo real para qualquer local.
-- 📬 **[API de CEP](https://apiconsultcep.vercel.app)**  
-  Uma API que retorna informações detalhadas sobre endereços a partir de um código postal.
+### 🌦️ [API de Clima](https://apiconsultweather.vercel.app)  
+🔹 API que fornece informações meteorológicas em tempo real.  
+🔹 **Tecnologias**: Node.js, Express, OpenWeather API  
+
+### 📬 [API de CEP](https://apiconsultcep.vercel.app)  
+🔹 API para consulta de endereços a partir do CEP.  
+🔹 **Tecnologias**: Node.js, Express, ViaCEP API  
 
 ---
 
-## 📫 Como me encontrar
-
+## 📫 Como me encontrar  
 [![Gmail](https://img.shields.io/badge/-saymonoliveiracastro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saymonoliveiracastro@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-@oliveirasaymonn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oliveirasaymonn)  
 
 ---
 
-## 🤝 Contribuições
-
-Sou sempre aberto a colaborar em projetos de código aberto. Fique à vontade para me mandar uma mensagem ou criar um pull request! 🚀
+## 🤝 Contribuições  
+Sou sempre aberto a colaborar em projetos de código aberto. Fique à vontade para me mandar uma mensagem ou criar um pull request! 🚀  
 
 ---
 
-## 📜 Licença
-
-Este perfil é de domínio pessoal. Respeite as licenças dos projetos.
+## 📜 Licença  
+Este perfil é de domínio pessoal. Respeite as licenças dos projetos.  
