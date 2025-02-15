@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" width="120" height="40"/>
+  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" width="130" height="40"/>
 </p>
 
 ### **Frontend**  
@@ -61,9 +61,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 Aqui estão alguns dos meus projetos:
 
-- ⚙️ [Sistema de Máquinas](https://github.com/SaymonTheDev7/MachineSystem)  
-- 🌦️ [API de Clima](https://apiconsultweather.vercel.app)  
-- 📬 [API de CEP](https://apiconsultcep.vercel.app)  
+- ⚙️ **[Sistema de Máquinas](https://github.com/SaymonTheDev7/MachineSystem)**  
+- 🌦️ **[API de Clima](https://apiconsultweather.vercel.app)**  
+- 📬 **[API de CEP](https://apiconsultcep.vercel.app)**  
 
 ---
 
