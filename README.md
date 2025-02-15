@@ -17,24 +17,44 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ### **Backend**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" width="130" height="40"/>
+  <a href="https://openjdk.org/">
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-framework">
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-security">
+    <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" width="130" height="40"/>
+  </a>
 </p>
 
 ### **Frontend**
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="120" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="120" height="40"/>
+  </a>
 </p>
 
 ### **Banco de dados**
 <p align="left">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="120" height="40"/>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="120" height="40"/>
+  </a>
 </p>
 
 ---
@@ -42,8 +62,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 💬 Mensageria
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-WebSocket-4D8CF0?style=for-the-badge&logo=websocket&logoColor=white" width="120" height="40"/>
+  <a href="https://kafka.apache.org/">
+    <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://websocket.org/">
+    <img src="https://img.shields.io/badge/-WebSocket-4D8CF0?style=for-the-badge&logo=websocket&logoColor=white" width="120" height="40"/>
+  </a>
 </p>
 
 ---
@@ -51,8 +75,28 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🎨 Design & Produtividade
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="120" height="40"/>
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="120" height="40"/>
+  </a>
+</p>
+
+---
+
+## 💻 IDEs que uso
+
+<p align="left">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" width="120" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" width="120" height="40"/>
+  </a>
 </p>
 
 ---
