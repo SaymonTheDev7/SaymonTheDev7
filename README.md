@@ -1,16 +1,17 @@
 # 👋 Olá, eu sou o Saymon!  
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho principalmente com **Java Spring** no backend e **React** no frontend, criando aplicações robustas, seguras e escaláveis. 🚀  
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, especializado em **backend com Java e Python** e **frontend com React e Tailwind CSS**. Sempre busco criar aplicações **eficientes, escaláveis e seguras**. 🚀  
 
 ---
 
 ## 🧑‍💻 Sobre mim  
 
-✔️ **Backend:** Desenvolvimento com **Java Spring** e **Spring Security**, garantindo robustez e segurança.  
-✔️ **Frontend:** Interfaces modernas com **React**, **Next.js** e **Tailwind CSS**.  
-✔️ **Banco de dados:** Experiência com **MySQL**, **PostgreSQL** e **MongoDB**.  
+✔️ **Backend:** Desenvolvimento com **Java Spring** e **Python (FastAPI/Django)**, garantindo robustez e segurança.  
+✔️ **Frontend:** Interfaces modernas e responsivas com **React, Next.js e Tailwind CSS**.  
+✔️ **Banco de dados:** Experiência com **MySQL, PostgreSQL e MongoDB**.  
 ✔️ **Mensageria:** Utilização do **Apache Kafka** para comunicação assíncrona.  
-✔️ **Código limpo:** Sempre aplicando boas práticas e padrões de arquitetura.  
+✔️ **Código limpo:** Aplicação de boas práticas como **SOLID, Design Patterns e Clean Code**.  
+✔️ **APIs:** Construção de APIs REST e WebSockets para sistemas dinâmicos e performáticos.  
 
 ---
 
@@ -21,6 +22,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 ### **Frontend**  
@@ -40,10 +44,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ---
 
-## 💬 Mensageria  
+## 💬 Mensageria e Comunicação  
 <p align="left">
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/-WebSocket-4D8CF0?style=for-the-badge&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
 ---
@@ -69,12 +74,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ### ⚙️ [Sistema de Máquinas](https://github.com/SaymonTheDev7/MachineSystem)  
 🔹 Um sistema completo de gerenciamento de máquinas industriais.  
-🔹 Permite controle de **manutenção**, **operações** e **cadastro de equipamentos**.  
+🔹 Controle de **manutenção, operações e cadastro de equipamentos**.  
 🔹 **Tecnologias**: Java Spring, React, Tailwind CSS, PostgreSQL  
 
 ### 🌦️ [API de Clima](https://apiconsultweather.vercel.app)  
 🔹 API que fornece informações meteorológicas em tempo real.  
-🔹 **Tecnologias**: Node.js, Express, OpenWeather API  
+🔹 **Tecnologias**: Python (FastAPI), OpenWeather API  
 
 ### 📬 [API de CEP](https://apiconsultcep.vercel.app)  
 🔹 API para consulta de endereços a partir do CEP.  
