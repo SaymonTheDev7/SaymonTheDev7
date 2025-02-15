@@ -49,7 +49,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 Aqui estão alguns dos meus projetos:
 
 - ⚙️ [Sistema de Máquinas](https://github.com/SaymonTheDev7/MachineSystem)  
-- 🌦️ [API de Clima](https://apiconsulweather.vercel.app)  
+- 🌦️ [API de Clima](https://apiconsultweather.vercel.app)  
 - 📬 [API de CEP](https://apiconsultcep.vercel.app)  
 
 ---
