@@ -43,8 +43,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" width="120" height="40"/>
-  <img src="https://img.shields.io/badge/-WebSocket-4D8CF0?style=for-the-badge&logo=websocket&logoColor=white" width="120" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fadroitgroup.io%2Fblog%2Fthe-power-of-websocket-revolutionizing-real-time-communication-on-theweb&psig=AOvVaw0IRiqcWyxYDJZh8Oh5HsSp&ust=1739666852564000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjMr5i6xIsDFQAAAAAdAAAAABAE" width="120" height="40"/>
 </p>
+
 
 ---
 
