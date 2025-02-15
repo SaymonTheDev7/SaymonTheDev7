@@ -6,23 +6,23 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🧑‍💻 Sobre mim
 
-- 💻 **Backend:** Trabalho com Java Spring, criando aplicações robustas e seguras.
-- 🌐 **Frontend:** Desenvolvo interfaces modernas e responsivas com Tailwind e React.
-- 📚 Sempre estou aprendendo novas tecnologias para melhorar minhas habilidades.
-- 🎯 Busco sempre escrever código limpo e otimizado!
+- 💻 **Backend:** Trabalho com Java Spring, criando aplicações robustas e seguras, utilizando Spring Security para maior proteção.
+- 🌐 **Frontend:** Desenvolvo interfaces modernas e responsivas com Tailwind CSS e React, sempre buscando oferecer a melhor experiência ao usuário.
+- 📚 Sempre estou aprendendo novas tecnologias e ferramentas para melhorar minhas habilidades.
+- 🎯 Busco sempre escrever código limpo, escalável e otimizado, com boas práticas de desenvolvimento.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+## 🚀 Tecnologias e Ferramentas
 
-### **Backend**  
+### **Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" width="130" height="40"/>
 </p>
 
-### **Frontend**  
+### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" width="120" height="40"/>
@@ -30,7 +30,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="120" height="40"/>
 </p>
 
-### **Banco de dados**  
+### **Banco de dados**
 <p align="left">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="40"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="40"/>
@@ -62,12 +62,15 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 Aqui estão alguns dos meus projetos:
 
 - ⚙️ **[Sistema de Máquinas](https://github.com/SaymonTheDev7/MachineSystem)**  
+  Um sistema de gerenciamento de máquinas industriais, permitindo o controle de manutenção e operação.
 - 🌦️ **[API de Clima](https://apiconsultweather.vercel.app)**  
+  Uma API que fornece informações meteorológicas em tempo real para qualquer local.
 - 📬 **[API de CEP](https://apiconsultcep.vercel.app)**  
+  Uma API que retorna informações detalhadas sobre endereços a partir de um código postal.
 
 ---
 
-## 📫 Como me encontrar  
+## 📫 Como me encontrar
 
 [![Gmail](https://img.shields.io/badge/-saymonoliveiracastro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saymonoliveiracastro@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-@oliveirasaymonn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oliveirasaymonn)  
