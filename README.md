@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Backend - Java<br>📚 Frontend - Next<br>🎯 Banco de dados - MySql<br>🎲  Mensageria - Kafka</p>
+<p align="left" style="font-family: 'Poppins', sans-serif; font-size: 18px; color: #333;">
+  <span role="img" aria-label="Backend">💻</span> <strong>Backend</strong> - Java<br>
+  <span role="img" aria-label="Frontend">🌐</span> <strong>Frontend</strong> - Next.js<br>
+  <span role="img" aria-label="Banco de dados">🗄️</span> <strong>Banco de Dados</strong> - MySQL<br>
+  <span role="img" aria-label="Mensageria">📡</span> <strong>Mensageria</strong> - Kafka
+</p>
 
 ###
 
