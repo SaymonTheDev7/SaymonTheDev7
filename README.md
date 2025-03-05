@@ -102,7 +102,7 @@
   <a href="https://instagram.com/oliveirasaymonn">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="45" alt="instagram logo" style="border: none; outline: none;" />
   </a>
-  <a href="https://linkedin.com/in/saymon-oliveira-de-castro">
+  <a href="https://www.linkedin.com/in/saymon-oliveira-de-castro-821b71319/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="45" alt="linkedin logo" style="border: none; outline: none;" />
   </a>
   <a href="mailto:saymondecastro@outlook.com">
@@ -112,7 +112,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="61" height="45" alt="whatsapp logo" style="border: none; outline: none;" />
   </a>
 </div>
-
 
 
 ###
