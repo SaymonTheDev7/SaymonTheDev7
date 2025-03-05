@@ -86,10 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SaymonTheDev7/SaymonTheDev7/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Onde me ecnontrar 📝</h2>
 
 ###
