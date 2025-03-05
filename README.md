@@ -96,20 +96,20 @@
 ###
 
 <div align="left">
-  <a href="mailto:saymonoliveiracastro@gmail.com" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="45" alt="gmail logo" />
+  <a href="mailto:saymonoliveiracastro@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="45" alt="gmail logo" style="border: none; outline: none;" />
   </a>
-  <a href="https://instagram.com/oliveirasaymonn" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="45" alt="instagram logo" />
+  <a href="https://instagram.com/oliveirasaymonn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="45" alt="instagram logo" style="border: none; outline: none;" />
   </a>
-  <a href="https://linkedin.com/in/saymon-oliveira-de-castro" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="45" alt="linkedin logo" />
+  <a href="https://linkedin.com/in/saymon-oliveira-de-castro">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="45" alt="linkedin logo" style="border: none; outline: none;" />
   </a>
-  <a href="mailto:saymondecastro@outlook.com" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="61" height="45" alt="microsoft-outlook logo" />
+  <a href="mailto:saymondecastro@outlook.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="61" height="45" alt="microsoft-outlook logo" style="border: none; outline: none;" />
   </a>
-  <a href="https://wa.me/47999171788" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="61" height="45" alt="whatsapp logo" />
+  <a href="https://wa.me/47999171788">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="61" height="45" alt="whatsapp logo" style="border: none; outline: none;" />
   </a>
 </div>
 
