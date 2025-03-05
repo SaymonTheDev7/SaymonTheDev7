@@ -1,90 +1,108 @@
-# 👋 Olá, eu sou o Saymon!  
+<h1 align="left">👋 Olá, sou o Saymon!</h1>
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, especializado em **backend com Java e Python** e **frontend com React e Tailwind CSS**. Sempre busco criar aplicações **eficientes, escaláveis e seguras**. 🚀  
+###
 
----
+<p align="left">Meu nome é Saymon Oliveira de Castro, tenho 18 anos e sou apaixonado por tecnologia e programção.</p>
 
-## 🧑‍💻 Sobre mim  
+###
 
-✔️ **Backend:** Desenvolvimento com [Java Spring](https://spring.io/) e [Python (FastAPI/Django)](https://www.python.org/), garantindo robustez e segurança.  
-✔️ **Frontend:** Interfaces modernas e responsivas com [React](https://react.dev/), [Next.js](https://nextjs.org/) e [Tailwind CSS](https://tailwindcss.com/).  
-✔️ **Banco de dados:** Experiência com [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/) e [MongoDB](https://www.mongodb.com/).  
-✔️ **Mensageria:** Utilização do [Apache Kafka](https://kafka.apache.org/) para comunicação assíncrona.  
-✔️ **Código limpo:** Aplicação de boas práticas como **SOLID, Design Patterns e Clean Code**.  
-✔️ **APIs:** Construção de APIs **REST e WebSockets** para sistemas dinâmicos e performáticos.  
+<h2 align="left">Habilidades</h2>
 
----
+###
 
-## 🚀 Tecnologias e Ferramentas  
+<p align="left">✨ Backend - Java<br>📚 Frontend - Next<br>🎯 Banco de dados - MySql<br>🎲  Mensageria - Kafka</p>
 
-### **Backend**  
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)  
-[![Spring Boot](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
-[![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)  
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
-[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)  
+###
 
-### **Frontend**  
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)  
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)  
+<h2 align="left">Tecnologias 🚀</h2>
 
-### **Banco de dados**  
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="amazonwebservices logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="45" alt="apachekafka logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="linkedin logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="oracle logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="trello logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+</div>
 
-## 💬 Mensageria e Comunicação  
-[![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)  
-[![WebSocket](https://img.shields.io/badge/-WebSocket-4D8CF0?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)  
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaymonTheDev7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaymonTheDev7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaymonTheDev7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-## 🎨 Design & Produtividade  
-[![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)  
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)  
+###
 
----
+<img src="https://raw.githubusercontent.com/SaymonTheDev7/SaymonTheDev7/output/snake.svg" alt="Snake animation" />
 
-## 💻 IDEs que uso  
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)  
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)  
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
+###
 
----
+<h2 align="left">Onde me ecnontrar 📝</h2>
 
-## 📂 Projetos em destaque  
+###
 
-### ⚙️ [Sistema de Máquinas](https://github.com/SaymonTheDev7/MachineSystem)  
-🔹 Sistema completo de **gerenciamento de máquinas industriais**.  
-🔹 Controle de **manutenção, operações e cadastro de equipamentos**.  
-🔹 **Tecnologias**: Java Spring, React, Tailwind CSS, PostgreSQL  
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="61" height="45" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="61" height="45" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="45" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="45" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="45" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="61" height="45" alt="microsoft-outlook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="61" height="45" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="61" height="45" alt="whatsapp logo"  />
+</div>
 
-### 🌦️ [API de Clima](https://apiconsultweather.vercel.app)  
-🔹 API que fornece informações meteorológicas em tempo real.  
-🔹 **Tecnologias**: Python (FastAPI), OpenWeather API  
-
-### 📬 [API de CEP](https://apiconsultcep.vercel.app)  
-🔹 API para consulta de endereços a partir do CEP.  
-🔹 **Tecnologias**: Node.js, Express, ViaCEP API  
-
----
-
-## 📫 Como me encontrar  
-[![Gmail](https://img.shields.io/badge/-saymonoliveiracastro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saymonoliveiracastro@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-@oliveirasaymonn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oliveirasaymonn)  
-
----
-
-## 🤝 Contribuições  
-Sou sempre aberto a colaborar em projetos de código aberto. Fique à vontade para me mandar uma mensagem ou criar um pull request! 🚀  
-
----
-
-## 📜 Licença  
-Este perfil é de domínio pessoal. Respeite as licenças dos projetos.  
+###
