@@ -91,6 +91,10 @@
 
 ###
 
+[![Spotify](https://novatorem-38xxjzs9u-saymon-oliveiras-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Saymon)
+
+###
+
 <h2 align="left">Onde me ecnontrar 📝</h2>
 
 ###
