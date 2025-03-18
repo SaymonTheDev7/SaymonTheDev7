@@ -89,6 +89,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaymonTheDev7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SaymonTheDev7&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
 ###
 
 <h2 align="left">Onde me ecnontrar 📝</h2>
