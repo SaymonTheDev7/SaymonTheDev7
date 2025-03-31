@@ -1,118 +1,101 @@
-<h1 align="left">👋 Olá, sou o Saymon!</h1>
+# Avalia + 🎓💡
 
-###
+**Avalia +** é uma aplicação web integrada para gerenciar de forma centralizada e automatizada os processos de pré-conselhos, conselhos de classe e feedbacks educacionais. O sistema oferece rastreabilidade, segurança e eficiência ao fluxo de dados, atendendo diferentes perfis de usuários, permitindo comunicação em tempo real e fornecendo dashboards para acompanhamento das etapas.
 
-<p align="left">Meu nome é Saymon Oliveira de Castro, tenho 18 anos e sou apaixonado por tecnologia e programção.</p>
+## Índice 📑
 
-###
+- [Objetivo](#objetivo)
+- [Arquitetura](#arquitetura)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Instalação](#instalação)
+- [Funcionalidades](#funcionalidades)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Execução Local](#execução-local)
+- [Licença](#licença)
 
-<h2 align="left">Habilidades</h2>
+## Objetivo 🎯
 
-###
+O objetivo do **Avalia +** é centralizar os processos de feedbacks educacionais e conselhos de classe em uma única plataforma, permitindo que alunos, professores, representantes e a equipe pedagógica interajam de forma eficiente e transparente.
 
-<p align="left" style="font-family: 'Poppins', sans-serif; font-size: 18px; color: #333;">
-  <span role="img" aria-label="Backend">💻</span> <strong>Backend</strong> - Java<br>
-  <span role="img" aria-label="Frontend">🌐</span> <strong>Frontend</strong> - Next.js<br>
-  <span role="img" aria-label="Banco de dados">🗄️</span> <strong>Banco de Dados</strong> - MySQL<br>
-  <span role="img" aria-label="Mensageria">📡</span> <strong>Mensageria</strong> - Kafka
-</p>
+## Arquitetura 🏗️
 
-###
+A arquitetura do sistema é dividida em três camadas principais:
 
-<h2 align="left">Tecnologias 🚀</h2>
+1. **Backend - Spring Boot**: Implementação da lógica de negócios, autenticação, autorização e persistência de dados.
+2. **Frontend - React/Angular**: Interface do usuário, com comunicação em tempo real e gestão de estado.
+3. **Banco de Dados - MySQL**: Armazenamento das entidades e dados do sistema.
 
-###
+## Tecnologias Utilizadas ⚙️
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="amazonwebservices logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="45" alt="apachekafka logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="linkedin logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="oracle logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="trello logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-</div>
+### Backend 💻
+- **Spring Boot**: Framework para desenvolvimento de aplicativos Java.
+- **Spring Security**: Para autenticação e autorização.
+- **JWT**: Para tokens de autenticação.
+- **Spring WebSocket**: Para comunicação em tempo real.
+- **MySQL**: Banco de dados relacional para armazenamento de dados.
 
-###
+### Frontend 💻
+- **React** ou **Angular**: Frameworks para construção da interface de usuário.
+- **Tailwind CSS**: Framework de CSS para estilização responsiva.
+- **WebSockets**: Para chat em tempo real.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaymonTheDev7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaymonTheDev7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaymonTheDev7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+### Ferramentas de Desenvolvimento 🔧
+- **Maven**: Para gerenciamento de dependências no backend.
+- **Docker**: Para containerização do sistema.
+- **Swagger**: Para documentação da API.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaymonTheDev7&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+## Instalação ⚙️
 
-###
+### Backend 🖥️
 
-<h2 align="left">Onde me ecnontrar 📝</h2>
+1. Clone o repositório.
+2. Navegue até o diretório do backend.
+3. Compile o projeto usando Maven.
+4. Execute a aplicação.
 
-###
+### Frontend 💻
 
-<div align="left">
-  <a href="mailto:saymonoliveiracastro@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="45" alt="gmail logo" style="border: none; outline: none;" />
-  </a>
-  <a href="https://instagram.com/oliveirasaymonn">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="45" alt="instagram logo" style="border: none; outline: none;" />
-  </a>
-  <a href="https://www.linkedin.com/in/saymon-oliveira-de-castro-821b71319/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="45" alt="linkedin logo" style="border: none; outline: none;" />
-  </a>
-  <a href="mailto:saymondecastro@outlook.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="61" height="45" alt="microsoft-outlook logo" style="border: none; outline: none;" />
-  </a>
-  <a href="https://wa.me/47999171788">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="61" height="45" alt="whatsapp logo" style="border: none; outline: none;" />
-  </a>
-</div>
+1. Navegue até o diretório do frontend.
+2. Instale as dependências.
+3. Execute o servidor de desenvolvimento.
 
+## Funcionalidades 🚀
 
-###
+### Gestão de Usuários 🔑
+- Cadastro, autenticação e autorização de diferentes perfis de usuários.
+- Controle de acesso baseado em JWT e Spring Security.
+
+### Gestão de Eventos de Conselho 📅
+- Criação e acompanhamento de eventos de conselho, incluindo pré-conselhos e feedbacks finais.
+- Dashboard para visualização do progresso dos eventos.
+
+### Formulários de Feedback 📝
+- Preenchimento de pré-conselhos e conselhos de classe.
+- Feedback estruturado para avaliação de turmas e alunos.
+
+### Chat Integrado 💬
+- Comunicação em tempo real entre a equipe pedagógica, professores, alunos e representantes.
+- Histórico de conversas armazenado no banco de dados.
+
+### Notificações 🔔
+- Notificações para alertar sobre pendências de formulários e mensagens no chat.
+
+## Estrutura do Projeto 🗂️
+
+### Backend 🖥️
+- **Controller**: Responsável pelas requisições HTTP e validação inicial dos dados.
+- **Service**: Lógica de negócios e orquestração das operações.
+- **Repository**: Acesso e manipulação dos dados no banco.
+
+### Frontend 💻
+- **Componentes React**: Responsáveis pela interface do usuário, incluindo formulários, dashboard e chat.
+- **State Management**: Gerenciamento de estado utilizando React Context ou Redux.
+- **WebSocket**: Comunicação em tempo real para o chat.
+
+## Execução Local 🔄
+
+Para rodar o sistema localmente, siga os passos de instalação descritos anteriormente para o backend e frontend.
+
+## Licença 📝
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
