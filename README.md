@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AVALIA +
-=======
 <h1 align="left">👋 Olá, sou o Saymon!</h1>
 
 ###
