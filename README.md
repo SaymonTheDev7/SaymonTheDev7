@@ -14,7 +14,6 @@
   <span role="img" aria-label="Backend">💻</span> <strong>Backend</strong> - Java<br>
   <span role="img" aria-label="Frontend">🌐</span> <strong>Frontend</strong> - Next.js<br>
   <span role="img" aria-label="Banco de dados">🗄️</span> <strong>Banco de Dados</strong> - MySQL<br>
-  <span role="img" aria-label="Mensageria">📡</span> <strong>Mensageria</strong> - Kafka
 </p>
 
 ###
