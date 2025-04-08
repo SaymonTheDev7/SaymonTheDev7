@@ -93,22 +93,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=SaymonTheDev7&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ###
-
-<h2 align="left">Onde me ecnontrar 📝</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/saymon-oliveira-de-castro-821b71319/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="45" alt="linkedin logo" style="border: none; outline: none;" />
-  </a>
-  <a href="mailto:saymondecastro@outlook.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="61" height="45" alt="microsoft-outlook logo" style="border: none; outline: none;" />
-  </a>
-  <a href="https://wa.me/47999171788">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="61" height="45" alt="whatsapp logo" style="border: none; outline: none;" />
-  </a>
-</div>
-
-
-###
