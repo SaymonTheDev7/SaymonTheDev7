@@ -91,5 +91,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaymonTheDev7&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-###
